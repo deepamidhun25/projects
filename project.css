@@ -1,0 +1,120 @@
+
+.parent{
+    height: 200px;
+    background-color: rgba(0, 128, 0, 0.726);
+ display: flex;
+}
+
+form{
+    margin-top: 30px;
+    background-color: white;
+    width: 600px;
+    height: 55px;
+    display: flex;
+}
+form input{
+    flex: 1;
+    border: none;
+    outline: none;
+}
+form button{
+    background-color: tomato;
+    padding: 10px 50px;
+    border: none;
+    outline: none;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+    
+/* .b1{
+    background-color: yellow;
+    /* color: black; */
+    /* border-radius: 5px; */
+    /* font-size: larger;
+    height: 100px;
+    width: 150px;
+    border: ;
+} */ 
+.cl-5{
+    margin-left: 13px;
+    height: 33px;
+    width: 249px;
+    /* border: black 2px solid; */
+    /* align-items: center; */
+    text-align: center;
+    background-color: goldenrod;
+    color: white;
+}
+
+.cl-1{
+    height: 298px;
+    width: 300px;
+    /* background-color: black; */
+    /* border: black 2px solid; */
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+}
+/* .cl-2{
+    height: 50px;
+    /* width: 300px; */
+    /* background-color: black; */
+    /* border: black 2px solid; */
+    .cl-3{
+        margin-top: 85px;
+        margin-left: -601px;
+        /* border: black 1px solid; */
+        height: 50px;
+        width: 78%;
+        cursor: pointer;
+        padding-left: 20px; 
+        padding-top: 20px;  
+        font-size: larger;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+    }
+    a{
+        color: white;
+    }
+    .menu{
+        margin-top: 25px;
+        height: 350px;
+        width: 100%;
+        background-color: yellow;
+        background-image: url("./images/images/images.jpg");
+        background-size: cover;
+    }
+.shp{
+    margin-top: 25px;
+    height: 250px;
+    width: 100%;
+    background-image: url("./images/DELIVERY-TIME\ \(1\).jpg");
+    background-size: cover;
+}
+.fruits{
+    margin-top: 25px;
+    height: 250px;
+    width: 100%;
+    display: flex;justify-content: space-around;
+}
+.fr{
+    height: 300px;
+    width: 20%;
+    border: black 1px solid;
+}
+.fr-1{
+    /* height: 150px;width: 150px; */
+    background-image: url("./images/fresh-fruits.jpg");
+background-size: cover;
+}
+.fr-2{
+    background-image: url("images/fresh-vegetables.jpg");
+    background-size: cover;
+}.fr-3{
+    background-image: url("./images/cut-vegetables.jpg");
+background-size: cover;
+}
+.fr-4{
+    background-image: url("./images/leafy-vegetables.jpg");
+background-size: cover;
+}
